@@ -1,0 +1,58 @@
+h1 {
+    text-align: center;
+    padding-top: 30px;
+    padding-bottom: 35px;
+    font-family: 'Lobster', cursive;
+    font-size: 80px;
+    border: 6px solid black;
+    border-radius: 20px;
+    margin: auto 70px;
+}
+form {
+    padding-top: 70px;
+    text-align: right;
+    color: #FF7F50;
+}
+
+h2{
+    color: #FF7F50;
+    padding-left: 38px;
+    font-family: 'Lato', sans-serif;
+    font-size: 50px;
+    font-weight: 700;
+    padding-top: 30px;
+    color: black;
+    font-size: 30px;
+}
+h3{
+    padding-right: 94px;
+    margin-bottom: 0%;
+    font-size: 20px;
+    font-weight: 600;
+}
+button{
+   
+}
+.col-6 {
+    padding-top: 30px;
+    padding-left: 200px;
+    font-size: 110px;
+    font-weight: 700;
+}
+.col {
+    font-weight: 700;
+    padding-top: 70px;
+    padding-bottom: 50px;
+    font-size: 25px;
+    font-family: 'Lato', sans-serif;}
+.col-3{
+    padding-top: 60px;
+    text-align: center;
+    font-weight: 600;
+    font-size: 30px;
+    line-height: 150px;
+    font-family: 'Lato', sans-serif;
+}
+.card-body{
+    background-color : rgb(255, 127, 80, 0.50);
+}
